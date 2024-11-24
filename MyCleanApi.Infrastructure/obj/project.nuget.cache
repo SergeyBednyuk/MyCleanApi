@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "luOxnkJshVk=",
+  "success": true,
+  "projectFilePath": "D:\\Education\\Pet Projects\\MyCleanApi.Infrastructure\\MyCleanApi.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\serge\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.11\\microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\serge\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\serge\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.11\\microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

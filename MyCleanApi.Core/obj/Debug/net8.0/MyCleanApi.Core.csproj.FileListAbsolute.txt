@@ -1,0 +1,11 @@
+D:\Education\Pet Projects\MyCleanApi.Core\bin\Debug\net8.0\MyCleanApi.Core.deps.json
+D:\Education\Pet Projects\MyCleanApi.Core\bin\Debug\net8.0\MyCleanApi.Core.dll
+D:\Education\Pet Projects\MyCleanApi.Core\bin\Debug\net8.0\MyCleanApi.Core.pdb
+D:\Education\Pet Projects\MyCleanApi.Core\obj\Debug\net8.0\MyCleanApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\Pet Projects\MyCleanApi.Core\obj\Debug\net8.0\MyCleanApi.Core.AssemblyInfoInputs.cache
+D:\Education\Pet Projects\MyCleanApi.Core\obj\Debug\net8.0\MyCleanApi.Core.AssemblyInfo.cs
+D:\Education\Pet Projects\MyCleanApi.Core\obj\Debug\net8.0\MyCleanApi.Core.csproj.CoreCompileInputs.cache
+D:\Education\Pet Projects\MyCleanApi.Core\obj\Debug\net8.0\MyCleanApi.Core.dll
+D:\Education\Pet Projects\MyCleanApi.Core\obj\Debug\net8.0\refint\MyCleanApi.Core.dll
+D:\Education\Pet Projects\MyCleanApi.Core\obj\Debug\net8.0\MyCleanApi.Core.pdb
+D:\Education\Pet Projects\MyCleanApi.Core\obj\Debug\net8.0\ref\MyCleanApi.Core.dll

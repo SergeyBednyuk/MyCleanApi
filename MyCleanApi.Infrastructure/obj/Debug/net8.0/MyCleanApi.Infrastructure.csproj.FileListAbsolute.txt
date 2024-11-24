@@ -1,0 +1,11 @@
+D:\Education\Pet Projects\MyCleanApi.Infrastructure\bin\Debug\net8.0\MyCleanApi.Infrastructure.deps.json
+D:\Education\Pet Projects\MyCleanApi.Infrastructure\bin\Debug\net8.0\MyCleanApi.Infrastructure.dll
+D:\Education\Pet Projects\MyCleanApi.Infrastructure\bin\Debug\net8.0\MyCleanApi.Infrastructure.pdb
+D:\Education\Pet Projects\MyCleanApi.Infrastructure\obj\Debug\net8.0\MyCleanApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\Pet Projects\MyCleanApi.Infrastructure\obj\Debug\net8.0\MyCleanApi.Infrastructure.AssemblyInfoInputs.cache
+D:\Education\Pet Projects\MyCleanApi.Infrastructure\obj\Debug\net8.0\MyCleanApi.Infrastructure.AssemblyInfo.cs
+D:\Education\Pet Projects\MyCleanApi.Infrastructure\obj\Debug\net8.0\MyCleanApi.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Education\Pet Projects\MyCleanApi.Infrastructure\obj\Debug\net8.0\MyCleanApi.Infrastructure.dll
+D:\Education\Pet Projects\MyCleanApi.Infrastructure\obj\Debug\net8.0\refint\MyCleanApi.Infrastructure.dll
+D:\Education\Pet Projects\MyCleanApi.Infrastructure\obj\Debug\net8.0\MyCleanApi.Infrastructure.pdb
+D:\Education\Pet Projects\MyCleanApi.Infrastructure\obj\Debug\net8.0\ref\MyCleanApi.Infrastructure.dll

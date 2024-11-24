@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "4/xdcJXYikXJ1fktxIZteKjeOnGliA5ceenzl4a22a0=",
+  "Source": "MyCleanApi.WebApi",
+  "BasePath": "_content/MyCleanApi.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
