@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MyCleanApi.Core\MyCleanApi.Core.csproj" />
+  </ItemGroup>
+
 </Project>
