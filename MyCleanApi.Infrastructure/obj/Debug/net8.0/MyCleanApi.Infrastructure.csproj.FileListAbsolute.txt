@@ -9,3 +9,10 @@ D:\Education\Pet Projects\MyCleanApi.Infrastructure\obj\Debug\net8.0\MyCleanApi.
 D:\Education\Pet Projects\MyCleanApi.Infrastructure\obj\Debug\net8.0\refint\MyCleanApi.Infrastructure.dll
 D:\Education\Pet Projects\MyCleanApi.Infrastructure\obj\Debug\net8.0\MyCleanApi.Infrastructure.pdb
 D:\Education\Pet Projects\MyCleanApi.Infrastructure\obj\Debug\net8.0\ref\MyCleanApi.Infrastructure.dll
+D:\Education\Pet Projects\MyCleanApi.Infrastructure\bin\Debug\net8.0\MyCleanApi.Infrastructure.runtimeconfig.json
+D:\Education\Pet Projects\MyCleanApi.Infrastructure\bin\Debug\net8.0\MyCleanApi.Core.dll
+D:\Education\Pet Projects\MyCleanApi.Infrastructure\bin\Debug\net8.0\MyCleanApi.Core.pdb
+D:\Education\Pet Projects\MyCleanApi.Infrastructure\obj\Debug\net8.0\MyCleanApi.Infrastructure.csproj.AssemblyReference.cache
+D:\Education\Pet Projects\MyCleanApi.Infrastructure\obj\Debug\net8.0\MyCleanApi.Infrastructure.sourcelink.json
+D:\Education\Pet Projects\MyCleanApi.Infrastructure\obj\Debug\net8.0\MyCleanA.BB186A65.Up2Date
+D:\Education\Pet Projects\MyCleanApi.Infrastructure\obj\Debug\net8.0\MyCleanApi.Infrastructure.genruntimeconfig.cache

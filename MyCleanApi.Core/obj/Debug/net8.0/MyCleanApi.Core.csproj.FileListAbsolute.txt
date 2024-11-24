@@ -9,3 +9,4 @@ D:\Education\Pet Projects\MyCleanApi.Core\obj\Debug\net8.0\MyCleanApi.Core.dll
 D:\Education\Pet Projects\MyCleanApi.Core\obj\Debug\net8.0\refint\MyCleanApi.Core.dll
 D:\Education\Pet Projects\MyCleanApi.Core\obj\Debug\net8.0\MyCleanApi.Core.pdb
 D:\Education\Pet Projects\MyCleanApi.Core\obj\Debug\net8.0\ref\MyCleanApi.Core.dll
+D:\Education\Pet Projects\MyCleanApi.Core\obj\Debug\net8.0\MyCleanApi.Core.sourcelink.json
